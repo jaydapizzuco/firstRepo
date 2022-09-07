@@ -1,4 +1,4 @@
-I added a new first line.
+Added a new first line.
 
 Here is my first file.
 I have added some text.
