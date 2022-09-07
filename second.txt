@@ -1,3 +1,5 @@
+new first line
+
 This is my second file.
 It has different text.
 trees are nice.
